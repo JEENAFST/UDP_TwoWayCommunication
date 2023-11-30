@@ -58,7 +58,7 @@ int main(int argc, char **argv){
 
   bzero(buffer, 1024);// Erasing 1024 bytes before using the buffer
 
-  strcpy(buffer, "Hello, World!");
+  strcpy(buffer, "Hai from UDP Client");
 
   //
 
